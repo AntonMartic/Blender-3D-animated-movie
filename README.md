@@ -20,7 +20,7 @@ Lego Landing is a short animated Lego film created using Blender for modeling an
 - **Rendering Time**: Optimized render settings to balance quality and efficiency.
 
 ## Contributors
-- **@AntonMartic**
-- **@Emidj236**
-- **@Marcus-Skoglund**
-- **@Yakoozzaa** 
+- **[@AntonMartic](https://github.com/AntonMartic)**
+- **[@Emidj236c](https://github.com/Emidj236)**
+- **[@Marcus-Skoglund](https://github.com/Marcus-Skoglund)**
+- **[@Yakoozzaa](https://github.com/Yakoozzaa)** 
